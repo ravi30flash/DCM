@@ -2,7 +2,7 @@
 
 <details>
 
-<summary> Components </summary>
+# <summary> Components </summary>
 
 ## main components of the datacenter 
 * CARC
@@ -17,16 +17,9 @@
 
 </details>
 
-## main components of the datacenter
-* CARC
-* PDU
-* UPS System
-* Electrical Primary SwitchGear
-* Pump Rooms
-* Fuel Oil Storage Tanks
-* Colocation Suites
-* Heat Rejection Devices
-* Emergancy Diesel Generators
+<details>
+
+<summary> Architecture </summary>
 
 ## Traditional datacenter Architecture
 speed difference between processor and ram is matched by the use
@@ -34,15 +27,29 @@ of FSB
 * Front side Bus : Bus between Processor and RAM
 * Back side Bus : Bus between L1 and L2 cache
 
+</details>
+
+<details> 
+<summary> Size </summary>
+
 ### Size of the rack is defined by the units
 * 1U = 1.5"
 * 2U = 3"
+</details>
+
+<details> 
+<summary> Cost distribution </summary>
 
 ### Operating cost of the data center
 * servers : 57%
 * Networking Equiments : 8%
 * Power Distribution : 18%
 * Power : 13%
+</details>
+
+
+
+
 
 ### Power Usage Effectiveness (PUE)
 
