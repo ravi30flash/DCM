@@ -1,5 +1,22 @@
 # Data Center management
 
+<details>
+
+<summary> Components </summary>
+
+## main components of the datacenter 
+* CARC
+* PDU
+* UPS System
+* Electrical Primary SwitchGear
+* Pump Rooms
+* Fuel Oil Storage Tanks
+* Colocation Suites
+* Heat Rejection Devices
+* Emergancy Diesel Generators
+
+</details>
+
 ## main components of the datacenter
 * CARC
 * PDU
