@@ -1,8 +1,7 @@
 # Data Center management
 
 <details>
-
-# <summary> Components </summary>
+<summary> Components </summary>
 
 ## main components of the datacenter 
 * CARC
@@ -47,8 +46,8 @@ of FSB
 * Power : 13%
 </details>
 
-
-
+<details> 
+<summary> PUE </summary>
 
 
 ### Power Usage Effectiveness (PUE)
@@ -62,6 +61,11 @@ power used by the DC Facility / power transmitted to Facility
 * Generation 4
 * Generation 5
 
+</details>
+
+
+<details> 
+<summary> Designing Challenges </summary>
 
 ### Data Center challanges
 * Cooling data centers
@@ -77,6 +81,11 @@ power used by the DC Facility / power transmitted to Facility
 * Size and growth of DC
 * networking at scale 
 
+</details>
+
+
+<details> 
+<summary> Types </summary>
 
 ### Types of Data Centers(DC)
 * Colocation Data Centers
@@ -85,9 +94,13 @@ power used by the DC Facility / power transmitted to Facility
 * Cloud Data Centers
 * Edge Data Centers
 * Micro Data Centers
+* Hybrid data centers(works on VMs)
 
-### Hybrid Data Center Architecture
-* this type of data center purely works on the virual machines
+</details>
+
+
+<details> 
+<summary> Adminitration challenges </summary>
 
 ### Data center Management Challenges
 * Infrastructure Complexcity
@@ -95,7 +108,12 @@ power used by the DC Facility / power transmitted to Facility
 * Change Management
 * Cost Management   
   
-<br>
+</details>
+
+
+
+<details> 
+<summary> Security Standards </summary>
 
 ### Data center Security standards
 * Layered Security Measures
@@ -103,6 +121,12 @@ power used by the DC Facility / power transmitted to Facility
 * Video Surveillance
 * Secure access points
 * 24x7x365 Security
+
+</details>
+
+
+
+
 
 
 
